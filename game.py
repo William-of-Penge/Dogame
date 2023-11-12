@@ -1,8 +1,8 @@
 import pygame
 import random
 
-print('help')
-
+print('game start')
+#I {HBMT-GitHub} entered this myself!
 pygame.init()
 
 screen = pygame.display.set_mode((1280, 720))
@@ -104,4 +104,4 @@ while running:
     clock.tick(60)
     dt = clock.tick(60) / 1000
 
-print('goodbye Norman')
+
